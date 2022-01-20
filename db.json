@@ -1,0 +1,35 @@
+{
+  "allProducts": [
+    {
+      "id": 1,
+      "prod_name": "Product 1",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "prod_name": "Product 2",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "prod_name": "Product 3",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "prod_name": "Product 4",
+      "price": 400
+    },
+    {
+      "id": 5,
+      "prod_name": "Product 5",
+      "price": 500
+    },
+    {
+      "id": 6,
+      "prod_name": "Product 6",
+      "price": 600
+    }
+    
+  ]
+}
